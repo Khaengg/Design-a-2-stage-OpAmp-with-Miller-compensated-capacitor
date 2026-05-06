@@ -1,0 +1,1 @@
+# Design-a-2-stage-OpAmp-with-Miller-compensated-capacitor
